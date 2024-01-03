@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  padding: 10px;
+  width: 40%;
+  background-color: rgb(133, 198, 255);
+  border-radius: 20px;
+}
+
+.container div select,
+.container input {
+  font-size: 18px;
+}
+.container div select,
+.container input {
+  border-radius: 10px;
+  padding: 5px;
+}
+.container-select {
+  margin-top: 15px;
+}
+button {
+  margin: 0 10px;
+  font-size: 18px;
+}
+
+.final-result {
+  font-size: 20px;
+  border: 2px solid rgb(255, 0, 0);
+  border-radius: 20px;
+  margin: 15px auto;
+  width: 30%;
+}
